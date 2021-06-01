@@ -1,2 +1,2 @@
-# IS-MOBILE-COMPUTING_PROJ
-A react native chat app with firebase auth and openserver mechanism which acts as a discord channel like platform.
+# LetChat
+React Native mobile application which is a basic chat application to try out the sockets in native and firebase authentication. A simple UI is implemented and in the beginning stages
